@@ -12,6 +12,7 @@ Desarrollador de bots en Discord. , [Los Pibes](https://discord.io/LosPibe5) and
 #1842**
 
 <h2 align="center">Proyectos</h2>
+<p align="center">Echale un vistazo a mis proyectos.</p>
 <p align="center">
    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
