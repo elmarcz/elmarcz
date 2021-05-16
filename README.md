@@ -16,3 +16,14 @@ Desarrollador de bots en Discord. , [Los Pibes](https://discord.io/LosPibe5) and
 
 <h2 align="center">Programación</h2>
 <p align="center">Estos son los lenguajes de programación en los que programo.</p>
+
+<p align="center">
+   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
+   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
+   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
+  </p>
+  
+  <h2 align="center">Repositorios Fijados</h2>
+<p align="center">Estos son mis repositorios fijados.</p>
