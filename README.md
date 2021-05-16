@@ -3,3 +3,6 @@
 
 # BIO
 Desarrollador de bots en Discord. , [Los Pibes](https://discord.io/LosPibe5) and [FBI (Rencarnados RP)](https://discord.io/fbirencarnadosRP)
+
+**Contactame en Discord: Marc Medrano
+#1842**
