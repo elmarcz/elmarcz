@@ -13,10 +13,10 @@ Desarrollador de bots en Discord. , [Los Pibes](https://discord.io/LosPibe5) and
 
 <h2 align="center">Proyectos</h2>
 <p align="center">Echale un vistazo a mis proyectos.</p>
-| <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://dotmsn.com" target="_blank">**Dot Messenger**</a> | <a href="https://enhancedtwitch.com" target="_blank">**EnhancedTwitch**</a> | <a href="https://github.com/strawci" target="_blank">**StrawCI**</a> |
-| :---: | :---: | :---: | :---: |
-| <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/81942507?s=200&v=4' width="100px" height='100px'> |
-| <a href="http://slicklearn.xyz" target="_blank">`https://slicklearn.xyz`</a> | <a href="http://dotmsn.com" target="_blank">`https://dotmsn.com`</a> | <a href="http://enhancedtwitch.com" target="_blank">`https://enhancedtwitch.com`</a> | <a href="https://github.com/strawci" target="_blank">`https://github.com/strawci`</a> 
+<a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://dotmsn.com" target="_blank">**Dot Messenger**</a> | <a href="https://enhancedtwitch.com" target="_blank">**EnhancedTwitch**</a> | <a href="https://github.com/strawci" target="_blank">**StrawCI**</a> |
+:---: | :---: | :---: | :---: |
+<img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/81942507?s=200&v=4' width="100px" height='100px'> |
+<a href="http://slicklearn.xyz" target="_blank">`https://slicklearn.xyz`</a> | <a href="http://dotmsn.com" target="_blank">`https://dotmsn.com`</a> | <a href="http://enhancedtwitch.com" target="_blank">`https://enhancedtwitch.com`</a> | <a href="https://github.com/strawci" target="_blank">`https://github.com/strawci`</a> 
 
 <h2 align="center">Programación</h2>
 <p align="center">Estos son los lenguajes de programación en los que programo.</p>
