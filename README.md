@@ -10,3 +10,9 @@ Desarrollador de bots en Discord. , [Los Pibes](https://discord.io/LosPibe5) and
 
 **Contactame en Discord: Marc Medrano
 #1842**
+
+<h2 align="center">Proyectos</h2>
+<p align="center">Echale un vistazo a mis proyectos.</p>
+
+<h2 align="center">Programación</h2>
+<p align="center">Estos son los lenguajes de programación en los que programo.</p>
