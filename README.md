@@ -6,7 +6,7 @@ Desarrollador de bots en Discord. , [Los Pibes](https://discord.io/LosPibe5) and
 
 💻 Bots Discord, 🎸 Me gusta la música, 🚗 Amante de los deportivos, 🇪🇸 Español.  
   
-![](https://komarev.com/ghpvc/?username=sammwyy&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=elmarcz&color=blueviolet)
 
 **Contactame en Discord: Marc Medrano
 #1842**
