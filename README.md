@@ -2,4 +2,4 @@
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'> 
 
 # BIO
-Desarrollador de bots en Discord. , [SlickLearn](https://twitter.com/slicklearn) and [Arkflame Network](https://twitter.com/ArkflameNetwork)
+Desarrollador de bots en Discord. , [Los Pibes](https://discord.io/LosPibe5) and [FBI (Rencarnados RP)](https://discord.io/fbirencarnadosRP)
