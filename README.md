@@ -4,7 +4,7 @@
 # BIO
 Desarrollador de bots en Discord. , [Los Pibes](https://discord.io/LosPibe5) y [FBI (Rencarnados RP)](https://discord.io/fbirencarnadosRP)
 
-💻 Bots Discord, 🎸 Me gusta la música, 🚗 Amante de los deportivos, 🇪🇸 Español.  
+💻 Bots Discord, 🎸 Me gusta la música, 🚗 Amante de los deportivos, 🇪🇸.  
   
 ![](https://komarev.com/ghpvc/?username=elmarcz&color=blueviolet)
 
