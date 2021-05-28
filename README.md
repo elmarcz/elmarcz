@@ -18,6 +18,7 @@ Desarrollador de bots en Discord. , [Los Pibes](https://discord.io/LosPibe5) y [
    <img src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Logo%20Los%20Pibes.png' height='42px'>
   <img src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Death%20Land.jpg' height='42px'>
   <img src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Movies%20%26%20Talk.jpg' height='42px'>
+  <img src='https://i.ibb.co/hfnst4L/G10-new-logo.jpg' height='42px'>
   </p>
 
 <h2 align="center">Programación</h2>
