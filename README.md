@@ -21,9 +21,11 @@ Desarrollador de bots en [Los Pibes](https://discord.gg/5dSRw9mxp3), [FBI (Renca
   <img src='https://i.ibb.co/hfnst4L/G10-new-logo.jpg' height='42px'>
   </p>
   
-  | <a href="https://discord.gg/7RRhg34GHF" target="_blank">**FBI (Rencarnados RP)**</a> |
+| <a href="http://slicklearn.xyz" target="_blank">**Slicklearn**</a> | <a href="https://dotmsn.com" target="_blank">**Dot Messenger**</a> | <a href="https://enhancedtwitch.com" target="_blank">**EnhancedTwitch**</a> | <a href="https://github.com/strawci" target="_blank">**StrawCI**</a> |
 | :---: | :---: | :---: | :---: |
-  | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/FBIpng.png' width="100px" height='100px'>
+| <img align='center' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/projects/slicklearn.png' width="100px" height='100px'> | <img align='center' src='https://avatars.githubusercontent.com/u/77628453?s=200&v=4' width="100px"  height='100px'> | <img align='center' width="100px" src='https://avatars.githubusercontent.com/u/76667263?s=200&v=4' height='100px'>  | <img align='center' src='https://avatars.githubusercontent.com/u/81942507?s=200&v=4' width="100px" height='100px'> |
+| <a href="http://slicklearn.xyz" target="_blank">`https://slicklearn.xyz`</a> | <a href="http://dotmsn.com" target="_blank">`https://dotmsn.com`</a> | <a href="http://enhancedtwitch.com" target="_blank">`https://enhancedtwitch.com`</a> | <a href="https://github.com/strawci" target="_blank">`https://github.com/strawci`</a> |
+
   
  <h2 align="center">Organizaciones</h2>
 <p align="center">Las organizaciones en las que trabajo.</p>
