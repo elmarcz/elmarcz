@@ -12,7 +12,7 @@ Desarrollador de bots en [Los Pibes](https://discord.gg/5dSRw9mxp3), [FBI (Renca
 #1842**
 
 <h2 align="center">Proyectos</h2>
-<p align="center">Echale un vistazo a mis proyectos.</p>
+<p align="center">Echale un vistazo a algunos de mis proyectos.</p>
 <p align="center">
 
   
@@ -22,17 +22,6 @@ Desarrollador de bots en [Los Pibes](https://discord.gg/5dSRw9mxp3), [FBI (Renca
 | <a href="https://discord.io/fbirencarnadosRP" target="_blank">`FBI RencarnadosRP`</a> | <a href="https://discord.gg/utnkA5xZDu" target="_blank">`Los Pibes`</a> | <a href="https://github.com/elmarcz/Death-Land" target="_blank">`Death Land`</a> | <a href="http://moviesandtalk.cf" target="_blank">`Movies & Talk`</a> |
 
 </p>
-
-  
- <h2 align="center">Organizaciones</h2>
-<p align="center">Las organizaciones en las que trabajo.</p>
-<p align="center">
-   <img src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/FBIpng.png' height='42px'/>
-   <img src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Logo%20Los%20Pibes.png' height='42px'>
-  <img src='https://i.ibb.co/M5Kg0gb/Death-Land.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Movies%20%26%20Talk.jpg' height='42px'>
-  <img src='https://i.ibb.co/hfnst4L/G10-new-logo.jpg' height='42px'>
-  </p>
 
 
 <h2 align="center">Programación</h2>
