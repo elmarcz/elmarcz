@@ -22,6 +22,7 @@ Desarrollador de bots en [Los Pibes](https://discord.gg/5dSRw9mxp3), [FBI (Renca
   </p>
   
   | <a href="https://discord.gg/7RRhg34GHF" target="_blank">**FBI (Rencarnados RP)**</a> |
+| :---: | :---: | :---: | :---: |
   | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/FBIpng.png' width="100px" height='100px'>
   
  <h2 align="center">Organizaciones</h2>
