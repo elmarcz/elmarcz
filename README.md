@@ -4,15 +4,15 @@
 # BIO
 Desarrollador de bots en [Los Pibes](https://discord.gg/5dSRw9mxp3), [FBI (Rencarnados RP)](https://discord.gg/g7GE4QpkXY) y [G10 Esports](https://discord.gg/sfJwnF2Tuc)
 
-💻 Bots Discord, 🎸 Me gusta la música, 🚗 Amante de los deportivos, España.  
+💻 Discord bots, 🎸 I like music, 🚗 Sports ars lover, Spain.  
   
 ![](https://komarev.com/ghpvc/?username=elmarcz&color=blueviolet)
 
-**Contactame en Discord: Marc Medrano
+**Contact me on Discord: Marc Medrano
 #1842**
 
-<h2 align="center">Proyectos</h2>
-<p align="center">Echale un vistazo a algunos de mis proyectos.</p>
+<h2 align="center">Projects</h2>
+<p align="center">Take a look at some of my projects.</p>
 <p align="center">
 
   
