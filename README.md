@@ -4,7 +4,7 @@
 # BIO
 Desarrollador de bots en [Los Pibes](https://discord.gg/5dSRw9mxp3), [FBI (Rencarnados RP)](https://discord.gg/g7GE4QpkXY) y [G10 Esports](https://discord.gg/sfJwnF2Tuc)
 
-💻 Discord bots, 🎸 I like music, 🚗 Sports ars lover, Spain.  
+💻 Discord bots, 🎸 I like music, 🚗 Sports cars lover, Spain.  
   
 ![](https://komarev.com/ghpvc/?username=elmarcz&color=blueviolet)
 
@@ -24,8 +24,8 @@ Desarrollador de bots en [Los Pibes](https://discord.gg/5dSRw9mxp3), [FBI (Renca
 </p>
 
 
-<h2 align="center">Programación</h2>
-<p align="center">Estos son los lenguajes de programación en los que programo.</p>
+<h2 align="center">Skills</h2>
+<p align="center">These are my programming skills.</p>
 
 <p align="center">
    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='42px'/>
@@ -35,5 +35,5 @@ Desarrollador de bots en [Los Pibes](https://discord.gg/5dSRw9mxp3), [FBI (Renca
    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
   </p>
   
-  <h2 align="center">Repositorios Fijados</h2>
-<p align="center">Estos son mis repositorios fijados.</p>
+  <h2 align="center">Pinned Repositories</h2>
+<p align="center">Take a look at my repositories.</p>
