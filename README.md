@@ -23,8 +23,8 @@ Developer of discord bots at [Los Pibes](https://discord.gg/5dSRw9mxp3), [˖˚.�
 </p>
 
 
-<h2 align="center">Projects</h2>
-<p align="center">Take a look at some of my projects.</p>
+<h2 align="center">Organizations</h2>
+<p align="center">A summary of organizations in which I participate.</p>
 <p align="center">
 
   
