@@ -23,6 +23,19 @@ Developer of discord bots at [Los Pibes](https://discord.gg/5dSRw9mxp3), [˖˚.�
 </p>
 
 
+<h2 align="center">Organizaciones</h2>
+<p align="center">Take a look at some of my projects.</p>
+<p align="center">
+
+  
+| <a href="https://discord.gg/arQR7nbc2y" target="_blank">**FBI (Rencarnados RP)**</a> | <a href="https://dotmsn.com" target="_blank">**Los Pibes**</a> | <a href="https://enhancedtwitch.com" target="_blank">**Death Land**</a> | <a href="http://moviesandtalk.cf/" target="_blank">**Movies & Talk**</a> |
+| :---: | :---: | :---: | :---: |
+| <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Organizaciones/a_2389e17537eb00ea23fff1ea6513fe30.gif' width="100px" height='100px'> | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Logo%20Los%20Pibes.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://camo.githubusercontent.com/b4d0f47f4fb6bc90743927c777267398df711d1d87efc9aa221e6f96150468d5/68747470733a2f2f692e6962622e636f2f4d354b673067622f44656174682d4c616e642e706e67' height='100px'>  | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Movies%20%26%20Talk.jpg' width="100px" height='100px'> | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/FBIpng.png' width="100px" height='100px'> | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Logo%20Los%20Pibes.png' width="100px"  height='100px'> |
+| <a href="https://discord.io/fbirencarnadosRP" target="_blank">`FBI RencarnadosRP`</a> | <a href="https://discord.gg/utnkA5xZDu" target="_blank">`Los Pibes`</a> | <a href="https://github.com/elmarcz/Death-Land" target="_blank">`Death Land`</a> | <a href="http://moviesandtalk.cf" target="_blank">`Movies & Talk`</a> |
+
+</p>
+
+
 <h2 align="center">Skills</h2>
 <p align="center">These are my programming skills.</p>
 
