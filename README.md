@@ -8,8 +8,7 @@ Developer of discord bots at [Los Pibes](https://discord.gg/5dSRw9mxp3), [FBI (R
   
 ![](https://komarev.com/ghpvc/?username=elmarcz&color=blueviolet)
 
-**Contact me on Discord: Marc Medrano
-#1842**
+**Contact me on Discord: 爪卂尺匚#1066**
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at some of my projects.</p>
