@@ -2,7 +2,7 @@
 <img align='right' src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/sprites/zelda.gif' width='20%'> 
 
 # BIO
-Developer of discord bots at [Los Pibes](https://discord.gg/5dSRw9mxp3), [FBI (Rencarnados RP)](https://discord.gg/g7GE4QpkXY) and [G10 Esports](https://discord.gg/sfJwnF2Tuc)
+Developer of discord bots at [Los Pibes](https://discord.gg/5dSRw9mxp3), [˖˚.꒰𝑪𝒉𝒐𝒎𝒖𝒔𝒖𝒌𝒆 🌹꒱ .˚.](https://discord.gg/VQsbW8uVt3) and [G10 Esports](https://discord.gg/sfJwnF2Tuc)
 
 💻 Discord bots, 🎸 I like music, 🚗 Sports cars lover, Spain.  
   
