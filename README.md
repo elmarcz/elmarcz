@@ -46,6 +46,7 @@ Developer of discord bots at [Los Pibes](https://discord.gg/5dSRw9mxp3), [˖˚.�
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/java.png' height='42px'>
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
+  <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png" height="42px">
   </p>
   
   <h2 align="center">Pinned Repositories</h2>
