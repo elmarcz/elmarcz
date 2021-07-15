@@ -3,7 +3,7 @@
 # BIO
 Developer of discord bots at [Los Pibes](https://discord.gg/5dSRw9mxp3), [˖˚.꒰𝑪𝒉𝒐𝒎𝒖𝒔𝒖𝒌𝒆 🌹꒱ .˚.](https://discord.gg/VQsbW8uVt3) and [G10 Esports](https://discord.gg/sfJwnF2Tuc)
 
-💻 Discord bots, 🎸 I like music, 🚗 Sports cars lover, Spain.  
+💻 Discord bots, 🎸 I like music, 🚗 Sports cars lover, 🌐Cibersecurity lover, Spain.  
   
 ![](https://komarev.com/ghpvc/?username=elmarcz&color=blueviolet)
 
