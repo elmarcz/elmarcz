@@ -7,7 +7,7 @@ Developer of discord bots at [Los Pibes](https://discord.gg/5dSRw9mxp3), [˖˚.�
   
 ![](https://komarev.com/ghpvc/?username=elmarcz&color=blueviolet)
 
-**Contact me on Discord: 爪卂尺匚#0001**
+<h4 align="center">**Contact me on Discord: 爪卂尺匚#0001**</h4>
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at some of my projects.</p>
