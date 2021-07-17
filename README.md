@@ -14,10 +14,10 @@ Developer of discord bots at [Los Pibes](https://discord.gg/5dSRw9mxp3), [˖˚.�
 <p align="center">
 
   
-| <a href="https://discord.com/invite/utnkA5xZDu" target="_blank">**Los Pibes**</a> | <a href="" target="_blank">**Cryptos**</a> | <a href="https://discord.com/invite/bDA4VuKHZV" target="_blank">**G10 Support**</a> | <a href="https://discord.gg/VQsbW8uVt3" target="_blank">**𝑪𝒉𝒐𝒎𝒖𝒔𝒖𝒌𝒆**</a> |
+| <a href="https://discord.com/invite/utnkA5xZDu" target="_blank">**Los Pibes**</a> | <a href="https://elmarcz.github.io/Cryptos/" target="_blank">**Cryptos**</a> | <a href="https://discord.com/invite/bDA4VuKHZV" target="_blank">**G10 Support**</a> | <a href="https://discord.gg/VQsbW8uVt3" target="_blank">**𝑪𝒉𝒐𝒎𝒖𝒔𝒖𝒌𝒆**</a> |
 | :---: | :---: | :---: | :---: |
 | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Logo%20Los%20Pibes.png' width="100px" height='100px'> | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/QW.jpg' width="100px"  height='100px'> | <img align='center' width="100px" src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/G10%20new%20logo.jpg' height='100px'>  | <img align='center' src='https://github.com/elmarcz/elmarcz/blob/main/Proyectos/e4d028690bd0850efb8ef3e0a9983ec7.png' width="100px" height='100px'> | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/FBIpng.png' width="100px" height='100px'> | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Logo%20Los%20Pibes.png' width="100px"  height='100px'> |
-| <a href="https://discord.gg/utnkA5xZDu" target="_blank">`Los Pibes`</a> | <a href="" target="_blank">`Cryptos`</a> | <a href="https://discord.com/invite/bDA4VuKHZV" target="_blank">`G10 Support`</a> | <a href="https://discord.gg/VQsbW8uVt3" target="_blank">`𝑪𝒉𝒐𝒎𝒖𝒔𝒖𝒌𝒆`</a> |
+| <a href="https://discord.gg/utnkA5xZDu" target="_blank">`Los Pibes`</a> | <a href="https://elmarcz.github.io/Cryptos" target="_blank">`Cryptos`</a> | <a href="https://discord.com/invite/bDA4VuKHZV" target="_blank">`G10 Support`</a> | <a href="https://discord.gg/VQsbW8uVt3" target="_blank">`𝑪𝒉𝒐𝒎𝒖𝒔𝒖𝒌𝒆`</a> |
 
 </p>
 
