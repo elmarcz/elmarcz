@@ -22,17 +22,7 @@ Developer of discord bots at [Los Pibes](https://discord.gg/5dSRw9mxp3), [˖˚.�
 </p>
 
 
-<h2 align="center">Organizations</h2>
-<p align="center">A summary of organizations in which I work.</p>
-<p align="center">
 
-  
-| <a href="https://discord.com/invite/utnkA5xZDu" target="_blank">**Los Pibes**</a> | <a href="https://discord.gg/5dSRw9mxp3" target="_blank">**DBH**</a> | <a href="https://discord.gg/bDA4VuKHZV" target="_blank">**G10**</a> | <a href="https://discord.gg/VQsbW8uVt3" target="_blank">**˖˚.꒰𝑪𝒉𝒐𝒎𝒖𝒔𝒖𝒌𝒆 🌹꒱ .˚.**</a> |
-| :---: | :---: | :---: | :---: |
-| <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Logo%20Los%20Pibes.png' width="100px" height='100px'> | <img align='center' src='https://i.ibb.co/S7pTfHg/DBH.png' width="100px"  height='100px'> | <img align='center' width="100px" src='https://github.com/elmarcz/elmarcz/blob/main/Proyectos/4b4bacc72c5900955e4eafb2bff97720.png' height='100px'>  | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Organizaciones/a_2389e17537eb00ea23fff1ea6513fe30.gif' width="100px" height='100px'> | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/FBIpng.png' width="100px" height='100px'> | <img align='center' src='https://raw.githubusercontent.com/elmarcz/elmarcz/main/Proyectos/Logo%20Los%20Pibes.png' width="100px"  height='100px'> |
-| <a href="https://discord.gg/utnkA5xZDu" target="_blank">`Los Pibes`</a> | <a href="https://discord.gg/5dSRw9mxp3" target="_blank">`DBH`</a> | <a href="https://discord.com/invite/bDA4VuKHZV" target="_blank">`G10`</a> | <a href="https://discord.gg/VQsbW8uVt3" target="_blank">`˖˚.꒰𝑪𝒉𝒐𝒎𝒖𝒔𝒖𝒌𝒆 🌹꒱ .˚.`</a> |
-
-</p>
 
 
 
