@@ -1,7 +1,7 @@
 
 
 # BIO
-Developer at [Cryptos](https://elmarcz.github.io/Cryptos), [˖˚.꒰𝑪𝒉𝒐𝒎𝒖𝒔𝒖𝒌𝒆 🌹꒱ .˚.](https://discord.gg/VQsbW8uVt3) and [Kyara](https://github.com/elmarcz/Kyara)
+Developer at [Cryptos](https://elmarcz.github.io/Cryptos), [ ˖˚.꒰𝑪𝒉𝒐𝒎𝒖𝒔𝒖𝒌𝒆 🌹꒱ .˚. ](https://discord.gg/VQsbW8uVt3) and [Kyara](https://github.com/elmarcz/Kyara)
 
 💻 Discord bots developer, 💲Cryptocurrency lover, 🚗 Sports cars lover, 🌐 Cibersecurity lover, 🌍Spain.  
   
