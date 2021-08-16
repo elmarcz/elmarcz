@@ -1,7 +1,7 @@
 
 
 # BIO
-Developer at [Cryptos](https://elmarcz.github.io/Cryptos), [ ˖˚.꒰𝑪𝒉𝒐𝒎𝒖𝒔𝒖𝒌𝒆 🌹꒱ .˚. ](https://discord.gg/VQsbW8uVt3) and [Kyara](https://github.com/elmarcz/Kyara)
+CEO on [Cryptos](https://elmarcz.github.io/Cryptos), [Kyara](https://github.com/elmarcz/Kyara) and [DBH](https://github.com/elmarcz/DBH).
 
 💻Future Full Stack 💲Cryptocurrency lover, ☁️ Networking, 🌐 Cibersecurity lover, 🌍Spain.  
   
