@@ -36,6 +36,7 @@ CEO on [Cryptos](https://elmarcz.github.io/Cryptos), [Kyara](https://github.com/
   <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='42px'>
    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='42px'>
   <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png" height="42px">
+  <img src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png" height="42px">
   </p>
   
   <h2 align="center">Pinned Repositories</h2>
