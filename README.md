@@ -7,7 +7,7 @@ CEO on [Cryptos](https://elmarcz.github.io/Cryptos), [Kyara](https://github.com/
   
 ![](https://komarev.com/ghpvc/?username=elmarcz&color=blueviolet)
 
-<h4 align="center">Contact me on Discord: 爪卂尺匚#0001</h4>
+<h4 align="center">Contact me on Discord: 爪卂尺匚#4914</h4>
 
 <h2 align="center">Projects</h2>
 <p align="center">Take a look at some of my projects.</p>
