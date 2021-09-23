@@ -3,7 +3,7 @@
 # BIO
 CEO on [Cryptos](https://elmarcz.github.io/Cryptos), [Kyara](https://github.com/elmarcz/Kyara) and [DBH](https://github.com/elmarcz/DBH).
 
-💻Future Full Stack 💲Cryptocurrency lover, ☁️ Networking, 🌐 Cibersecurity lover, 🌍Spain.  
+💻Future Full Stack 💲Cryptos 🔒 Security ☁️ Networking 🌐 Cibersecurity lover 🌍Spain
   
 ![](https://komarev.com/ghpvc/?username=elmarcz&color=blueviolet)
 
