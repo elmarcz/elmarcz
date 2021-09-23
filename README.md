@@ -9,6 +9,3 @@ CEO on [Cryptos](https://elmarcz.github.io/Cryptos), [Kyara](https://github.com/
 
 <h4 align="center">Contact me on Discord: 爪卂尺匚#4914</h4>
 
-
-  <h2 align="center">Pinned Repositories</h2>
-<p align="center">Take a look at my repositories.</p>
