@@ -5,5 +5,16 @@
 
 🈹 [elmarc.xyz](https://elmarc.xyz)
 
-<h4 align="center">Contact me on Discord:  爪卂尺匚#4914</h4>
 
+<p>
+       <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/html.png' height='25px'/>
+    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/css.png' height='25px'/>
+    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/sass.png' height='25px'/>
+    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/javascript.jpg' height='25px' class='icon'/>
+  <img src='https://raw.githubusercontent.com/elmarcz/JS-Fullstack/master/src/Bootstrap.png' height='25px'/>
+  <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/python.png' height='25px'>
+    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mongo.png' height='25px' class='icon'/>
+    <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nodejs.png' height='25px' class='icon'/>
+ </p>
+
+<h4 align="center">Contact me on Discord:  爪卂尺匚#4914</h4>
