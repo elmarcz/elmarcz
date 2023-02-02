@@ -60,6 +60,11 @@ Security ☁️ Networking 🌐 Cibersecurity lover 🌍Spain
     height="25px"
     class="icon"
   />
+  <img 
+       src="https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/nextjs.png"
+       height="25px"
+       class="icon"
+  />
     <img
     src="https://raw.githubusercontent.com/elmarcz/elmarcz/main/Organizaciones/go.png"
     height="17px"
