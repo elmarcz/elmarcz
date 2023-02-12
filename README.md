@@ -77,5 +77,6 @@ Security ☁️ Networking 🌐 Cibersecurity lover 🌍Spain
   />
 </p>
 
+![](https://komarev.com/ghpvc/?elmarcz&label=PROFILE+VIEWS)
 
 <h4 align="center">Contact me on Discord: 爪卂尺匚#4914</h4>
