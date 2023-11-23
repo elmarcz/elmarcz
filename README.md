@@ -9,7 +9,7 @@
 Security ☁️ Networking 🌐 Cibersecurity lover 🌍Spain 
 
 🈹
-[elmarc.xyz](https://elmarc.xyz)
+[elmarc.xyz](https://github.com/elmarcz)
 
 <p>
   <img
@@ -79,4 +79,4 @@ Security ☁️ Networking 🌐 Cibersecurity lover 🌍Spain
 
 ![](https://komarev.com/ghpvc/?elmarcz&label=PROFILE+VIEWS)
 
-<h4 align="center">Contact me on Discord: 爪卂尺匚#4914</h4>
+<h4 align="center">Contact me on Discord: Marc Medrano</h4>
