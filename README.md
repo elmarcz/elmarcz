@@ -1,5 +1,4 @@
-# Marc Medrano 
-**CEO on** 
+# Marc Medrano  
 🗼[LearnCode](https://learncode-marc.herokuapp.com)
 🗻[Kyara](https://github.com/elmarcz/Kyara)
 🚀[DBH](https://github.com/elmarcz/DBH) &
